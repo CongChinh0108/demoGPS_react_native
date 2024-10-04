@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@react-native-community/geolocation": "^3.4.0",
+    "axios": "^1.7.7",
     "react": "18.2.0",
-    "react-native": "0.73.8"
+    "react-native": "0.73.8",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-sound": "^0.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
